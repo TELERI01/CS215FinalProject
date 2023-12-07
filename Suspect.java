@@ -1,3 +1,9 @@
+/**
+ * Tyler Lericos
+ * Johnson
+ * CS215
+ * Final Project
+ */
 class Suspect {
     String name;//Name
     String reasonForArrest;//Crime
